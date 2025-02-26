@@ -25,4 +25,4 @@ A beautiful and modern e-commerce UI built with Flutter.
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/stojo-ui.git
+   git clone https://github.com/srikrishnastrive/Flutter-stojo-ui.git
